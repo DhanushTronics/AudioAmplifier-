@@ -27,6 +27,8 @@ This project demonstrates the design, simulation, and hardware implementation of
 
 ## Documentation
 See the `report_epc.docx` file for detailed circuit diagrams, simulation results, and hardware photos.
+## 🎥 Demo Video
+[Download the demo video](demo/demo.mp4)
 
 ## License
 This project is licensed under the MIT License.
